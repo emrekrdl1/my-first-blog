@@ -25,6 +25,7 @@ SECRET_KEY = '1gqt)s2%p0r+57yvoq+#*um3x@zp#p&o1di_(b)4y(%&j%xsjg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+#ALLOWED_HOSTS = ['emrekrdl.pythonanywhere.com']
 ALLOWED_HOSTS = []
 
 
